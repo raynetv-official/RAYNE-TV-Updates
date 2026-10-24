@@ -1,6 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "2.3.0",
-  "apkUrl": "https://github.com/raynetv-official/RAYNE-TV-Updates/releases/latest/download/RAYNE-TV.apk",
-  "releaseNotes": "Bug fixes and performance improvements"
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "",
+  "releaseNotes": "Initial release",
+  "mandatory": true
 }
